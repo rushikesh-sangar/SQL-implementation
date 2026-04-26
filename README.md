@@ -40,4 +40,5 @@ This repository may include implementations related to:
 This repository is useful for:
 
 - Students  
-- Beginners in SQL  
+- Beginners in SQL
+- Data Science learners 
