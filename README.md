@@ -29,7 +29,7 @@ This repository may include implementations related to:
 - Aggregate Functions  
 - GROUP BY and HAVING  
 - Joins (Inner, Left, Right, Full)  
-- Subqueries and CTEs  
+- Subqueries 
 - Window Functions  
 - Database Design Concepts  
 - SQL for Data Analysis  
