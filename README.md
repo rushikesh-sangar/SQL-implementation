@@ -1,4 +1,4 @@
-# SQL implementations
+# SQL implementation
 
 This repository contains SQL implementations of database and analytical concepts with a strong focus on **practical query examples** rather than heavy theory.
 
